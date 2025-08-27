@@ -1,0 +1,14 @@
+# missi-user 15 AQ3A.240627.003 OS2.0.201.0.VNCMIXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: houji
+- flavor: missi-user
+- release: 15
+- id: AQ3A.240627.003
+- incremental: OS2.0.201.0.VNCMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/houji_global/houji:14/UKQ1.240523.001/OS2.0.201.0.VNCMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AQ3A.240627.003-OS2.0.201.0.VNCMIXM-release-keys
+- repo: xiaomi_houji_dump
