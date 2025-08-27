@@ -1,0 +1,15 @@
+{
+    "version": "1.0",
+    "CameraBooster": {
+        "threshold_8Gmem": {
+            "skip_task": 3,
+            "free_memory_threshold": 1500000
+        },
+        "mem_compact_threshold_8Gmem": {
+            "mReclaimOnceSize": 409600,
+            "relcaim_cache_threshold":512000,
+            "reclaim_launch_free_target": 1024000,
+            "relcaim_psi_threshold":50
+        }
+    }
+}
