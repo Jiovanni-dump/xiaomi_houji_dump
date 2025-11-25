@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.4.0.WNCCNXM release-keys
+- manufacturer: xiaomi
+- platform: pineapple
+- codename: houji
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.4.0.WNCCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/houji/houji:14/UKQ1.240624.001/OS3.0.4.0.WNCCNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WNCCNXM-release-keys
+- repo: xiaomi_houji_dump
